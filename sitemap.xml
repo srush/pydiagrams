@@ -21,11 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://danoneata.github.io/chalk/api/bounding_box/</loc>
-         <lastmod>2022-06-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://danoneata.github.io/chalk/api/combinators/</loc>
          <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
@@ -41,32 +36,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://danoneata.github.io/chalk/api/shape/</loc>
-         <lastmod>2022-06-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://danoneata.github.io/chalk/api/style/</loc>
-         <lastmod>2022-06-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://danoneata.github.io/chalk/api/style/</loc>
-         <lastmod>2022-06-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://danoneata.github.io/chalk/api/trail/</loc>
          <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://danoneata.github.io/chalk/api/trails/</loc>
-         <lastmod>2022-06-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://danoneata.github.io/chalk/api/transform/</loc>
          <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
